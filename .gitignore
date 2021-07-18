@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Topics/Overview of the basic program/Hello, Java/out/
+/Topics/Overview of the basic program/Hello, Java/out/production/classes/
